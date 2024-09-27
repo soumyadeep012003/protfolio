@@ -1,0 +1,21 @@
+html{
+    background-color: antiquewhite;
+}
+h2{
+    color: whitesmoke;
+    background: darkseagreen;
+}
+.odd{
+    color: #FAF8F1;
+    background: #c58940;
+}
+.normal{
+    font-weight: normal;
+}
+.right{
+    text-align: right;
+    font-weight: normal;
+}
+*{
+    font-family: 'Ysabeau Office',cursive;
+}
